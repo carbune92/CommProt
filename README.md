@@ -1,4 +1,4 @@
-CDLProject
+CommProt
 ==========
 
-an example project
+The next communication protocol.
